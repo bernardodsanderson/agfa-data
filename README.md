@@ -1,1 +1,1 @@
-AGFA Films Database
+## A JSON database of all AGFA movies
